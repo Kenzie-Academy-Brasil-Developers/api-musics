@@ -11,27 +11,27 @@
   "tracks": [
     {
       "id": 1,
-      "name": "Iron Man",
-      "cover": "https://res.cloudinary.com/dcymst6jv/image/upload/v1685106442/e8tefjqlod8us6cv3rlq.jpg",
-      "music": "https://res.cloudinary.com/dcymst6jv/video/upload/v1685106448/tf7r6yb5fvonndng9qle.mp3"
+      "name": "Three Doors Down ",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/6/65/3_doors_down.jpg",
+      "music": "https://res.cloudinary.com/dsbkp5841/video/upload/v1685900864/audios/2_-_Nyko_Hay_Kay_-_Three_Doors_Down_-_Here_Without_You_t3bebz.mp3"
     },
     {
       "id": 2,
-      "name": "Paranoid",
-      "cover": "https://res.cloudinary.com/dcymst6jv/image/upload/v1685106560/itzcihln37xyonjekozs.jpg",
-      "music": "https://res.cloudinary.com/dcymst6jv/video/upload/v1685106562/umc33rdzgcanah9itaqj.mp3"
+      "name": "Everlong",
+      "cover": "https://i1.sndcdn.com/artworks-pewMD4eo1wHAArvs-SEQCIQ-t500x500.jpg",
+      "music": "https://res.cloudinary.com/dsbkp5841/video/upload/v1685900863/audios/1_-_Nyko_Hay_Kay_-_Foo_Fighter_-_Everlong_xmxigf.mp3"
     },
     {
       "id": 3,
-      "name": "Back In Black",
-      "cover": "https://res.cloudinary.com/dcymst6jv/image/upload/v1685106571/adgzuqgjdwl3668zw407.jpg",
-      "music": "https://res.cloudinary.com/dcymst6jv/video/upload/v1685106573/ksm1tfo9xlzoqftant2g.mp3"
+      "name": "Shaggy Angel",
+      "cover": "https://m.media-amazon.com/images/I/41ZP0QW486L._UF350,350_QL50_.jpg",
+      "music": "https://res.cloudinary.com/dsbkp5841/video/upload/v1685900864/audios/6_-_Nyko_Hay_Kay_-_Shaggy_-_Angel_kl9g7r.mp3"
     },
     {
       "id": 4,
-      "name": "The Unforgiven",
-      "cover": "https://res.cloudinary.com/dcymst6jv/image/upload/v1685106579/nzvauuqnkffhzpzqku57.jpg",
-      "music": "https://res.cloudinary.com/dcymst6jv/video/upload/v1685106605/n8bk44h35eickpesjzwa.mp3"
+      "name": "Total Eclipse Of The Heart",
+      "cover": "https://eadn-wc04-7608563.nxedge.io/wp-content/uploads/2022/07/4097222-2833885.jpg",
+      "music": "https://res.cloudinary.com/dsbkp5841/video/upload/v1685900864/audios/3_-_Nyko_Hay_Kay_-_Bonnie_Tyler_-Total_Eclipse_Of_The_Heart_-_Versa%CC%83o_Acu%CC%81stica_fwdltz.mp3"
     },
     {
       "id": 5,
